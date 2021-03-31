@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43474404603",
+    "project_id": "walkforfuture",
+    "storage_bucket": "walkforfuture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43474404603:android:960414c1a2bef6cdcddc5e",
+        "android_client_info": {
+          "package_name": "com.example.walk_for_future"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43474404603-8qoubihiq68qo3frt6138iaa5m85ppkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGDaKpKul5vlUfyJzPJ6P4fDuuUwCxJME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43474404603-8qoubihiq68qo3frt6138iaa5m85ppkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
